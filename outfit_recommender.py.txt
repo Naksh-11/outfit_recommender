@@ -13,4 +13,3 @@ occasion = input("Enter the occasion (casual/formal): ").lower()
 
 print("Recommended outfit:", recommend_outfit(weather, occasion))
 
-sdghchsdghj
