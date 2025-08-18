@@ -4,3 +4,4 @@ def recommend_outfit(weather, preferences):
     elif weather["condition"] == "sunny":
         return "T-shirt and jeans"
     return "Jacket and trousers"
+#hi
